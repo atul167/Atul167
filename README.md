@@ -1,4 +1,4 @@
-[![Masterhead](https://images.unsplash.com/photo-1518933165971-611dbc9c412d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kZXJzfGVufDB8fDB8fA%3D%3D&w=1000&q=80)]
+
 <h1 align="center">Hi 👋, I'm Atul Dwivedi</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg">
