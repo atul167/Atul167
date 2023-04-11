@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **Full stack development**
 
 - 💬 Ask me about **Django, Web development**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/atul777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="atul777" height="30" width="40" /></a>
