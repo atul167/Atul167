@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atul Dwivedi</h1>
 <h3 align="center">A passionate software developer who can fix your code.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atul167&label=Profile%20views&color=0e75b6&style=flat" alt="atul167" /> </p>
 - 🌱 I’m currently learning Full stack development.
 -   I have expertise in NextJS and React.
